@@ -1,0 +1,54 @@
+#!/bin/bash
+
+rm -f \
+    20190619_XU_WDiwZ9ws.info.json.vo.* \
+    20190619_XU_WDiwZ9ws.info.json.ao.* \
+    20190619_XU_WDiwZ9ws.info.json.bo.* \
+    20190619_XU_WDiwZ9ws.info.json.wav 
+
+rm -fr               20190619_XU_WDiwZ9ws.info_dir
+mkdir -p             20190619_XU_WDiwZ9ws.info_dir
+mv 20190619_XU_WDiwZ9ws.info.json 20190619_XU_WDiwZ9ws.info.json.*         20190619_XU_WDiwZ9ws.info_dir/
+
+
+
+mv  20190619_XU_WDiwZ9ws.info_dir/20190619_XU_WDiwZ9ws.info.json.jpg 20190619_XU_WDiwZ9ws.info_dir/20190619_XU_WDiwZ9ws.info.json.webm.mp4.jpg
+
+cat > 20190619_XU_WDiwZ9ws.info_dir/_index.md << EOF3
++++
+title = " 20190619_XU_WDiwZ9ws 特别平论Live | 香港反送中无路可退，林郑下台必然选择 2019-06-19 "
+description = " 2019年6月9日和12日、16日，香港爆发了两次规模巨大的反对逃犯条例修正草案的和平抗议游行，9日上街人数超过100万，16日上街人数超过200万，这是香港自1989年北京六四屠杀以来规模最大的游行示威，滔天民意浩浩荡荡，香港和北京当局却污蔑香港市民的和平抗议为暴动，甚至动用武力试图镇压和平息香港市民的和平抗议，当局逮捕多名抗议人士，甚至有一位35岁的年轻人梁凌杰在15日从金钟太古广场抗议现场坠下不幸身亡，16日，大量示威者身穿黑衣悼念烈士。香港局势将会如何演变? 林郑会下台吗？ "
+weight = 20
++++
+
+{{< mymp4 mp4="20190619_XU_WDiwZ9ws.info.json.webm.mp4" 
+text="len $(cat 20190619_XU_WDiwZ9ws.info_dir/20190619_XU_WDiwZ9ws.info.json.webm.mp4|wc -c)"
+>}}
+
+{{< mymp4x  mp4x="20190619_XU_WDiwZ9ws.info.json.25k.mp4"
+text="len $(cat 20190619_XU_WDiwZ9ws.info_dir/20190619_XU_WDiwZ9ws.info.json.25k.mp4|wc -c)"
+>}}
+
+
+{{< mydiv text="2019年6月9日和12日、16日，香港爆发了两次规模巨大的反对逃犯条例修正草案的和平抗议游行，9日上街人数超过100万，16日上街人数超过200万，这是香港自1989年北京六四屠杀以来规模最大的游行示威，滔天民意浩浩荡荡，香港和北京当局却污蔑香港市民的和平抗议为暴动，甚至动用武力试图镇压和平息香港市民的和平抗议，当局逮捕多名抗议人士，甚至有一位35岁的年轻人梁凌杰在15日从金钟太古广场抗议现场坠下不幸身亡，16日，大量示威者身穿黑衣悼念烈士。香港局势将会如何演变? 林郑会下台吗？" >}}
+<br>
+
+{{< mydiv text="https://www.youtube.com/watch?v=XU_WDiwZ9ws" >}}
+
+
+<br>
+
+请大家传播时，不需要传播文件本身，<br>
+原因是：一旦传播过大东西（例如，图片，文件），<br>
+就会触发检查机制。<br>
+我不知道检查机制的触发条件。<br>
+但是我知道，不会说你传一个没有敏感词的网络地址都检查，<br>
+否则，检查员得累死。<br><br>
+直接转发网址就可以了：<br>
+原因是，这是程序员网站，<br>
+共匪不敢封锁，墙内可以直接下载。
+
+
+EOF3
+
+

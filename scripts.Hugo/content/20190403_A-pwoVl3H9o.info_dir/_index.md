@@ -1,0 +1,34 @@
++++
+title = " 20190403_A-pwoVl3H9o Weiping Show | Interview with Patrick "
+description = " 他的名字叫Patrick，曾在日本冲绳美军基地服役四年，刚完成对他的采访，分享新奥尔良志愿者之旅的感想，还有他对美国经济社会和中美贸易战的看法。 "
+weight = 20
++++
+
+{{< mymp4 mp4="20190403_A-pwoVl3H9o.info.json.mp4" 
+text="len 31533641"
+>}}
+
+{{< mymp4x  mp4x="20190403_A-pwoVl3H9o.info.json.25k.mp4"
+text="len 2832700"
+>}}
+
+
+{{< mydiv text="他的名字叫Patrick，曾在日本冲绳美军基地服役四年，刚完成对他的采访，分享新奥尔良志愿者之旅的感想，还有他对美国经济社会和中美贸易战的看法。" >}}
+<br>
+
+{{< mydiv text="https://www.youtube.com/watch?v=A-pwoVl3H9o" >}}
+
+
+<br>
+
+请大家传播时，不需要传播文件本身，<br>
+原因是：一旦传播过大东西（例如，图片，文件），<br>
+就会触发检查机制。<br>
+我不知道检查机制的触发条件。<br>
+但是我知道，不会说你传一个没有敏感词的网络地址都检查，<br>
+否则，检查员得累死。<br><br>
+直接转发网址就可以了：<br>
+原因是，这是程序员网站，<br>
+共匪不敢封锁，墙内可以直接下载。
+
+

@@ -1,0 +1,34 @@
++++
+title = " 20190609_bmk5tyUeZWA 秦伟平声援香港，反送中，香港加油！ "
+description = " #HongKong #NoExtraditionToChina__我在意大利佛罗伦萨旅行，声援香港，#反送中 加油香港！ "
+weight = 20
++++
+
+{{< mymp4 mp4="20190609_bmk5tyUeZWA.info.json.mp4" 
+text="len 1602530"
+>}}
+
+{{< mymp4x  mp4x="20190609_bmk5tyUeZWA.info.json.25k.mp4"
+text="len 65717"
+>}}
+
+
+{{< mydiv text="#HongKong #NoExtraditionToChina__我在意大利佛罗伦萨旅行，声援香港，#反送中 加油香港！" >}}
+<br>
+
+{{< mydiv text="https://www.youtube.com/watch?v=bmk5tyUeZWA" >}}
+
+
+<br>
+
+请大家传播时，不需要传播文件本身，<br>
+原因是：一旦传播过大东西（例如，图片，文件），<br>
+就会触发检查机制。<br>
+我不知道检查机制的触发条件。<br>
+但是我知道，不会说你传一个没有敏感词的网络地址都检查，<br>
+否则，检查员得累死。<br><br>
+直接转发网址就可以了：<br>
+原因是，这是程序员网站，<br>
+共匪不敢封锁，墙内可以直接下载。
+
+

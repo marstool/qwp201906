@@ -1,0 +1,54 @@
+#!/bin/bash
+
+rm -f \
+    20190531_O_3fmg9Tvyw.info.json.vo.* \
+    20190531_O_3fmg9Tvyw.info.json.ao.* \
+    20190531_O_3fmg9Tvyw.info.json.bo.* \
+    20190531_O_3fmg9Tvyw.info.json.wav 
+
+rm -fr               20190531_O_3fmg9Tvyw.info_dir
+mkdir -p             20190531_O_3fmg9Tvyw.info_dir
+mv 20190531_O_3fmg9Tvyw.info.json 20190531_O_3fmg9Tvyw.info.json.*         20190531_O_3fmg9Tvyw.info_dir/
+
+
+
+mv  20190531_O_3fmg9Tvyw.info_dir/20190531_O_3fmg9Tvyw.info.json.jpg 20190531_O_3fmg9Tvyw.info_dir/20190531_O_3fmg9Tvyw.info.json.mp4.jpg
+
+cat > 20190531_O_3fmg9Tvyw.info_dir/_index.md << EOF3
++++
+title = " 20190531_O_3fmg9Tvyw 平论HOT | 中美贸易战失控， 北京将推中国版制裁清单，人民日报“九论美国必将失败”，公众距离吃草还有多远？ 2019-05-31 "
+description = " 中国将推出一个所谓的“不可靠实体清单”，把那些损害中国公司利益的公司，组织和个人列入名单。在中国电讯巨头华为公司遭到美国制裁后，中国媒体周五（5月31日）作了上述报道。__中国媒体引述商务部发言人的话说，中国将依法建立“不可靠实体清单”制度。那些不遵守市场规则、背离契约精神、出于非商业目的对中国企业实施封锁或断供，严重损害中国企业正当权益的外国企业、组织或个人，将列入“不可靠实体清单”。中国不久将公布具体的措施。 "
+weight = 20
++++
+
+{{< mymp4 mp4="20190531_O_3fmg9Tvyw.info.json.mp4" 
+text="len $(cat 20190531_O_3fmg9Tvyw.info_dir/20190531_O_3fmg9Tvyw.info.json.mp4|wc -c)"
+>}}
+
+{{< mymp4x  mp4x="20190531_O_3fmg9Tvyw.info.json.25k.mp4"
+text="len $(cat 20190531_O_3fmg9Tvyw.info_dir/20190531_O_3fmg9Tvyw.info.json.25k.mp4|wc -c)"
+>}}
+
+
+{{< mydiv text="中国将推出一个所谓的“不可靠实体清单”，把那些损害中国公司利益的公司，组织和个人列入名单。在中国电讯巨头华为公司遭到美国制裁后，中国媒体周五（5月31日）作了上述报道。__中国媒体引述商务部发言人的话说，中国将依法建立“不可靠实体清单”制度。那些不遵守市场规则、背离契约精神、出于非商业目的对中国企业实施封锁或断供，严重损害中国企业正当权益的外国企业、组织或个人，将列入“不可靠实体清单”。中国不久将公布具体的措施。" >}}
+<br>
+
+{{< mydiv text="https://www.youtube.com/watch?v=O_3fmg9Tvyw" >}}
+
+
+<br>
+
+请大家传播时，不需要传播文件本身，<br>
+原因是：一旦传播过大东西（例如，图片，文件），<br>
+就会触发检查机制。<br>
+我不知道检查机制的触发条件。<br>
+但是我知道，不会说你传一个没有敏感词的网络地址都检查，<br>
+否则，检查员得累死。<br><br>
+直接转发网址就可以了：<br>
+原因是，这是程序员网站，<br>
+共匪不敢封锁，墙内可以直接下载。
+
+
+EOF3
+
+

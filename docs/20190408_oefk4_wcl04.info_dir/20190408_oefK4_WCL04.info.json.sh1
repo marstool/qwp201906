@@ -1,0 +1,113 @@
+#!/bin/bash
+
+#40000= 249  17510232     0 webm          none          opus '              https' https://r4---sn-aigzrn7l.googlevideo.com/videoplayback?expire=1565507024&ei=b2lPXcS6J8LOkgbf7KjICQ&ip=148.163.76.139&id=o-ADzxQghDyfSq9HS5HiR-puAwox0I7RCLmvMLLORklaZ8&itag=249&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-aigzrn7l%2Csn-aigl6ned&ms=au%2Crdu&mv=u&mvi=3&pl=22&mime=audio%2Fwebm&gir=yes&clen=17510232&dur=2795.021&lmt=1554795287913458&mt=1565485147&fvip=4&keepalive=yes&beids=9466585&c=WEB&txp=5511222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRQIhANM6DlgyTbt-02XL1dXKluLK6CkMJNraRUyUALjrxUXfAiBnof6HkOUaQovXqYn5UQnAwXsWO68IBX0_jjvGCUp_4A%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHylml4wRQIhAJYtQl7f4Ft1ihj7qon6hsc33B_YvGSMBrlAhrCfvi4dAiBF5m7nZ6Zy6Z5kNUtXWc5_Gh9RJEiYu8RyQNWlt3hruA%3D%3D&ratebypass=yes
+#40001= 250  18267873     0 webm          none          opus '              https' https://r4---sn-aigzrn7l.googlevideo.com/videoplayback?expire=1565507024&ei=b2lPXcS6J8LOkgbf7KjICQ&ip=148.163.76.139&id=o-ADzxQghDyfSq9HS5HiR-puAwox0I7RCLmvMLLORklaZ8&itag=250&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-aigzrn7l%2Csn-aigl6ned&ms=au%2Crdu&mv=u&mvi=3&pl=22&mime=audio%2Fwebm&gir=yes&clen=18267873&dur=2795.021&lmt=1554795222904158&mt=1565485147&fvip=4&keepalive=yes&beids=9466585&c=WEB&txp=5511222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRQIhALTBrDN8759JVXjlWWCKrJbXrhUHY_7UTtNcqv91G8RTAiASfBZg59a0zrFIijf6rqk4NnyK4tXZM85ynEVHQHUTOw%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHylml4wRQIhAJYtQl7f4Ft1ihj7qon6hsc33B_YvGSMBrlAhrCfvi4dAiBF5m7nZ6Zy6Z5kNUtXWc5_Gh9RJEiYu8RyQNWlt3hruA%3D%3D&ratebypass=yes
+#40002= 251  32973523     0 webm          none          opus '              https' https://r4---sn-aigzrn7l.googlevideo.com/videoplayback?expire=1565507024&ei=b2lPXcS6J8LOkgbf7KjICQ&ip=148.163.76.139&id=o-ADzxQghDyfSq9HS5HiR-puAwox0I7RCLmvMLLORklaZ8&itag=251&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-aigzrn7l%2Csn-aigl6ned&ms=au%2Crdu&mv=u&mvi=3&pl=22&mime=audio%2Fwebm&gir=yes&clen=32973523&dur=2795.021&lmt=1554795218286872&mt=1565485147&fvip=4&keepalive=yes&beids=9466585&c=WEB&txp=5511222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRQIgGKqdRoxqwpbKjKyD6Szocf8lA73uLjXhBldlDpKvCo8CIQDQXZnz3Yi-g30qt6a8xlVyjZGqLkAeeWuWQl6lo7ismg%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHylml4wRQIhAJYtQl7f4Ft1ihj7qon6hsc33B_YvGSMBrlAhrCfvi4dAiBF5m7nZ6Zy6Z5kNUtXWc5_Gh9RJEiYu8RyQNWlt3hruA%3D%3D&ratebypass=yes
+#40003= 140  45235549     0  m4a          none     mp4a.40.2 '              https' https://r4---sn-aigzrn7l.googlevideo.com/videoplayback?expire=1565507024&ei=b2lPXcS6J8LOkgbf7KjICQ&ip=148.163.76.139&id=o-ADzxQghDyfSq9HS5HiR-puAwox0I7RCLmvMLLORklaZ8&itag=140&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-aigzrn7l%2Csn-aigl6ned&ms=au%2Crdu&mv=u&mvi=3&pl=22&mime=audio%2Fmp4&gir=yes&clen=45235549&dur=2795.055&lmt=1554791287187712&mt=1565485147&fvip=4&keepalive=yes&beids=9466585&c=WEB&txp=5531432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRQIgAvH0HxC9L1cnSH45xlZPIRiGShNGSzcDh1_rplDEL-oCIQC-TmAXiXAZ_SC1FKO1w90dvESb6tJwd8WuGV49AU4F-g%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHylml4wRQIhAJYtQl7f4Ft1ihj7qon6hsc33B_YvGSMBrlAhrCfvi4dAiBF5m7nZ6Zy6Z5kNUtXWc5_Gh9RJEiYu8RyQNWlt3hruA%3D%3D&ratebypass=yes
+#40004= 160  13480701   256  mp4   avc1.4d400c          none '              https' https://r4---sn-aigzrn7l.googlevideo.com/videoplayback?expire=1565507024&ei=b2lPXcS6J8LOkgbf7KjICQ&ip=148.163.76.139&id=o-ADzxQghDyfSq9HS5HiR-puAwox0I7RCLmvMLLORklaZ8&itag=160&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-aigzrn7l%2Csn-aigl6ned&ms=au%2Crdu&mv=u&mvi=3&pl=22&mime=video%2Fmp4&gir=yes&clen=13480701&dur=2794.999&lmt=1554792724768560&mt=1565485147&fvip=4&keepalive=yes&beids=9466585&c=WEB&txp=5535432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRQIgGATucmho_tjsvHgKppJQGnc3gPFBldJHxLCXhZDM2lQCIQCt81km9UAjG68uoJ8f1SwU2dLtFKv5IDUYPN0Qa9DjtA%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHylml4wRQIhAJYtQl7f4Ft1ihj7qon6hsc33B_YvGSMBrlAhrCfvi4dAiBF5m7nZ6Zy6Z5kNUtXWc5_Gh9RJEiYu8RyQNWlt3hruA%3D%3D&ratebypass=yes
+#40005= 278  32709452   256 webm           vp9          none '              https' https://r4---sn-aigzrn7l.googlevideo.com/videoplayback?expire=1565507024&ei=b2lPXcS6J8LOkgbf7KjICQ&ip=148.163.76.139&id=o-ADzxQghDyfSq9HS5HiR-puAwox0I7RCLmvMLLORklaZ8&itag=278&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-aigzrn7l%2Csn-aigl6ned&ms=au%2Crdu&mv=u&mvi=3&pl=22&mime=video%2Fwebm&gir=yes&clen=32709452&dur=2795.000&lmt=1554793916200138&mt=1565485147&fvip=4&keepalive=yes&beids=9466585&c=WEB&txp=5531432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRQIgDFtLYcbmigqmD-KXjTKUcJ8rGDyxqz07WUFu6anyRjMCIQDXspLM_V5G79igQRjvL-B49LTIYdfjGHUNg5AAFHhYZA%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHylml4wRQIhAJYtQl7f4Ft1ihj7qon6hsc33B_YvGSMBrlAhrCfvi4dAiBF5m7nZ6Zy6Z5kNUtXWc5_Gh9RJEiYu8RyQNWlt3hruA%3D%3D&ratebypass=yes
+#40006= 133  27200816   426  mp4   avc1.4d4015          none '              https' https://r4---sn-aigzrn7l.googlevideo.com/videoplayback?expire=1565507024&ei=b2lPXcS6J8LOkgbf7KjICQ&ip=148.163.76.139&id=o-ADzxQghDyfSq9HS5HiR-puAwox0I7RCLmvMLLORklaZ8&itag=133&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-aigzrn7l%2Csn-aigl6ned&ms=au%2Crdu&mv=u&mvi=3&pl=22&mime=video%2Fmp4&gir=yes&clen=27200816&dur=2794.999&lmt=1554792703330988&mt=1565485147&fvip=4&keepalive=yes&beids=9466585&c=WEB&txp=5535432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRQIgOqrrglNrW8SVrXUppe6WRimR1ak3M-zQgKjTAgwgQGICIQCcXqKkAf6MQTVWS9C1DpKcSkWMQVJkTCCVqyNGphWnKA%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHylml4wRQIhAJYtQl7f4Ft1ihj7qon6hsc33B_YvGSMBrlAhrCfvi4dAiBF5m7nZ6Zy6Z5kNUtXWc5_Gh9RJEiYu8RyQNWlt3hruA%3D%3D&ratebypass=yes
+#40007= 242  35967017   426 webm           vp9          none '              https' https://r4---sn-aigzrn7l.googlevideo.com/videoplayback?expire=1565507024&ei=b2lPXcS6J8LOkgbf7KjICQ&ip=148.163.76.139&id=o-ADzxQghDyfSq9HS5HiR-puAwox0I7RCLmvMLLORklaZ8&itag=242&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-aigzrn7l%2Csn-aigl6ned&ms=au%2Crdu&mv=u&mvi=3&pl=22&mime=video%2Fwebm&gir=yes&clen=35967017&dur=2795.000&lmt=1554793909295874&mt=1565485147&fvip=4&keepalive=yes&beids=9466585&c=WEB&txp=5531432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRQIgKljM9FEQVYCF84Ny9hfB5iavbEWTMUraDQqXpe5hIdwCIQCegd_6qGol_9hTjku0cbWjxLDmzR1cz-y7jKPscSn6ow%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHylml4wRQIhAJYtQl7f4Ft1ihj7qon6hsc33B_YvGSMBrlAhrCfvi4dAiBF5m7nZ6Zy6Z5kNUtXWc5_Gh9RJEiYu8RyQNWlt3hruA%3D%3D&ratebypass=yes
+#40008= 134  57867703   640  mp4   avc1.4d401e          none '              https' https://r4---sn-aigzrn7l.googlevideo.com/videoplayback?expire=1565507024&ei=b2lPXcS6J8LOkgbf7KjICQ&ip=148.163.76.139&id=o-ADzxQghDyfSq9HS5HiR-puAwox0I7RCLmvMLLORklaZ8&itag=134&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-aigzrn7l%2Csn-aigl6ned&ms=au%2Crdu&mv=u&mvi=3&pl=22&mime=video%2Fmp4&gir=yes&clen=57867703&dur=2794.999&lmt=1554792732567512&mt=1565485147&fvip=4&keepalive=yes&beids=9466585&c=WEB&txp=5535432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRAIgWf6xBlYOMAYud3laUDlGgyN9nh9byeXZcyznt1N9G5wCIB-n9Twgdd3b1puUCPughMr8401TqtC8zqsbtvBMvQsJ&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHylml4wRQIhAJYtQl7f4Ft1ihj7qon6hsc33B_YvGSMBrlAhrCfvi4dAiBF5m7nZ6Zy6Z5kNUtXWc5_Gh9RJEiYu8RyQNWlt3hruA%3D%3D&ratebypass=yes
+#40009= 243  62832025   640 webm           vp9          none '              https' https://r4---sn-aigzrn7l.googlevideo.com/videoplayback?expire=1565507024&ei=b2lPXcS6J8LOkgbf7KjICQ&ip=148.163.76.139&id=o-ADzxQghDyfSq9HS5HiR-puAwox0I7RCLmvMLLORklaZ8&itag=243&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-aigzrn7l%2Csn-aigl6ned&ms=au%2Crdu&mv=u&mvi=3&pl=22&mime=video%2Fwebm&gir=yes&clen=62832025&dur=2795.000&lmt=1554793989197658&mt=1565485147&fvip=4&keepalive=yes&beids=9466585&c=WEB&txp=5531432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRgIhAIJzjBE3h_K0KMAUoAzxIaFndZsep0wBhcCsVBom2_viAiEAk1thK3WUWbLvDsVxPj3EVZATgYegQgxQr0g9BAXYndg%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHylml4wRQIhAJYtQl7f4Ft1ihj7qon6hsc33B_YvGSMBrlAhrCfvi4dAiBF5m7nZ6Zy6Z5kNUtXWc5_Gh9RJEiYu8RyQNWlt3hruA%3D%3D&ratebypass=yes
+#40010= 244  96258217   854 webm           vp9          none '              https' https://r4---sn-aigzrn7l.googlevideo.com/videoplayback?expire=1565507024&ei=b2lPXcS6J8LOkgbf7KjICQ&ip=148.163.76.139&id=o-ADzxQghDyfSq9HS5HiR-puAwox0I7RCLmvMLLORklaZ8&itag=244&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-aigzrn7l%2Csn-aigl6ned&ms=au%2Crdu&mv=u&mvi=3&pl=22&mime=video%2Fwebm&gir=yes&clen=96258217&dur=2795.000&lmt=1554794050598657&mt=1565485147&fvip=4&keepalive=yes&beids=9466585&c=WEB&txp=5531432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRQIgR0qT7RjNFF3GdScjdbbE2oWyox7TaPgKLjRavZVgHwICIQDlfITZSCRCak6Cim-IxCqX6I7Zqkml1fIaJL8lbaMcpw%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHylml4wRQIhAJYtQl7f4Ft1ihj7qon6hsc33B_YvGSMBrlAhrCfvi4dAiBF5m7nZ6Zy6Z5kNUtXWc5_Gh9RJEiYu8RyQNWlt3hruA%3D%3D&ratebypass=yes
+#40011= 135  87995308   854  mp4   avc1.4d401f          none '              https' https://r4---sn-aigzrn7l.googlevideo.com/videoplayback?expire=1565507024&ei=b2lPXcS6J8LOkgbf7KjICQ&ip=148.163.76.139&id=o-ADzxQghDyfSq9HS5HiR-puAwox0I7RCLmvMLLORklaZ8&itag=135&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-aigzrn7l%2Csn-aigl6ned&ms=au%2Crdu&mv=u&mvi=3&pl=22&mime=video%2Fmp4&gir=yes&clen=87995308&dur=2794.999&lmt=1554792755016355&mt=1565485147&fvip=4&keepalive=yes&beids=9466585&c=WEB&txp=5535432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRgIhAOkfxXXvBcJf624VFsdiCoqwAQBNXKxR7JosHCuXfOFdAiEA-_p-0abdNqlNbLgM5Ta0WC-sAkTpNJ3YWch2Z97G4Mc%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHylml4wRQIhAJYtQl7f4Ft1ihj7qon6hsc33B_YvGSMBrlAhrCfvi4dAiBF5m7nZ6Zy6Z5kNUtXWc5_Gh9RJEiYu8RyQNWlt3hruA%3D%3D&ratebypass=yes
+#40012= 136 130104726  1280  mp4   avc1.4d401f          none '              https' https://r4---sn-aigzrn7l.googlevideo.com/videoplayback?expire=1565507024&ei=b2lPXcS6J8LOkgbf7KjICQ&ip=148.163.76.139&id=o-ADzxQghDyfSq9HS5HiR-puAwox0I7RCLmvMLLORklaZ8&itag=136&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-aigzrn7l%2Csn-aigl6ned&ms=au%2Crdu&mv=u&mvi=3&pl=22&mime=video%2Fmp4&gir=yes&clen=130104726&dur=2794.999&lmt=1554792798771837&mt=1565485147&fvip=4&keepalive=yes&beids=9466585&c=WEB&txp=5535432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRQIgTWT15HkVgPwbuFdr2_aCVd-Ru7draSmkKfDQzw7Pc9QCIQDzRj4znsCsq2vw4k2t9m2LJxMUNR5AicU490tnrRtziQ%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHylml4wRQIhAJYtQl7f4Ft1ihj7qon6hsc33B_YvGSMBrlAhrCfvi4dAiBF5m7nZ6Zy6Z5kNUtXWc5_Gh9RJEiYu8RyQNWlt3hruA%3D%3D&ratebypass=yes
+#40013= 247 160270690  1280 webm           vp9          none '              https' https://r4---sn-aigzrn7l.googlevideo.com/videoplayback?expire=1565507024&ei=b2lPXcS6J8LOkgbf7KjICQ&ip=148.163.76.139&id=o-ADzxQghDyfSq9HS5HiR-puAwox0I7RCLmvMLLORklaZ8&itag=247&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-aigzrn7l%2Csn-aigl6ned&ms=au%2Crdu&mv=u&mvi=3&pl=22&mime=video%2Fwebm&gir=yes&clen=160270690&dur=2795.000&lmt=1554794124911075&mt=1565485147&fvip=4&keepalive=yes&beids=9466585&c=WEB&txp=5531432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRQIhAOd4ePJ0p3UwbiuW4qXtWVg_mAD6xeYogX8pNvQVwZx_AiAWAcyze0jH41Pr83s4r0ug-P5TckWPA1wavVaF9JKAQQ%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHylml4wRQIhAJYtQl7f4Ft1ihj7qon6hsc33B_YvGSMBrlAhrCfvi4dAiBF5m7nZ6Zy6Z5kNUtXWc5_Gh9RJEiYu8RyQNWlt3hruA%3D%3D&ratebypass=yes
+#40014=  43 228240594   640 webm         vp8.0        vorbis '              https' https://r4---sn-aigzrn7l.googlevideo.com/videoplayback?expire=1565507024&ei=b2lPXcS6J8LOkgbf7KjICQ&ip=148.163.76.139&id=o-ADzxQghDyfSq9HS5HiR-puAwox0I7RCLmvMLLORklaZ8&itag=43&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-aigzrn7l%2Csn-aigl6ned&ms=au%2Crdu&mv=u&mvi=3&pl=22&mime=video%2Fwebm&gir=yes&clen=228240594&ratebypass=yes&dur=0.000&lmt=1554795232524981&mt=1565485147&fvip=4&beids=9466585&c=WEB&txp=5511222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRgIhAL9WV-9dnCmqUOaUZB_9UZ3a6NcjSTADgAYNhCBw14SlAiEAqXUPksw4B7naxXMLR2DlOlgrXuIXyGosNqx5tWkBekU%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHylml4wRQIhAJYtQl7f4Ft1ihj7qon6hsc33B_YvGSMBrlAhrCfvi4dAiBF5m7nZ6Zy6Z5kNUtXWc5_Gh9RJEiYu8RyQNWlt3hruA%3D%3D
+#40015=  18 140343457   640  mp4   avc1.42001E     mp4a.40.2 '              https' https://r4---sn-aigzrn7l.googlevideo.com/videoplayback?expire=1565507024&ei=b2lPXcS6J8LOkgbf7KjICQ&ip=148.163.76.139&id=o-ADzxQghDyfSq9HS5HiR-puAwox0I7RCLmvMLLORklaZ8&itag=18&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-aigzrn7l%2Csn-aigl6ned&ms=au%2Crdu&mv=u&mvi=3&pl=22&mime=video%2Fmp4&gir=yes&clen=140343457&ratebypass=yes&dur=2795.055&lmt=1554791125609479&mt=1565485147&fvip=4&beids=9466585&c=WEB&txp=5531432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRQIgOPUxafwYoIi-EIqB8mq4CiQQJQm79xqbi7qk8OmcN0ICIQDdY93K1CQgL2eJYTSeIbv2oGNVyQ0cRnHoe7At9y1weg%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHylml4wRQIhAJYtQl7f4Ft1ihj7qon6hsc33B_YvGSMBrlAhrCfvi4dAiBF5m7nZ6Zy6Z5kNUtXWc5_Gh9RJEiYu8RyQNWlt3hruA%3D%3D
+#40016=  22         0  1280  mp4   avc1.64001F     mp4a.40.2 '              https' https://r4---sn-aigzrn7l.googlevideo.com/videoplayback?expire=1565507024&ei=b2lPXcS6J8LOkgbf7KjICQ&ip=148.163.76.139&id=o-ADzxQghDyfSq9HS5HiR-puAwox0I7RCLmvMLLORklaZ8&itag=22&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-aigzrn7l%2Csn-aigl6ned&ms=au%2Crdu&mv=u&mvi=3&pl=22&mime=video%2Fmp4&ratebypass=yes&dur=2795.055&lmt=1554792916495239&mt=1565485147&fvip=4&beids=9466585&c=WEB&txp=5535432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cratebypass%2Cdur%2Clmt&sig=ALgxI2wwRQIgbrVe6OSs6jUEKcc9WCjq_8gnj8iiKj_EMHvtIotrs5MCIQDzxQL_oW3WPgQII5BVcUXQ8jv7HdEwgniSob1dGCJ4Jw%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHylml4wRQIhAJYtQl7f4Ft1ihj7qon6hsc33B_YvGSMBrlAhrCfvi4dAiBF5m7nZ6Zy6Z5kNUtXWc5_Gh9RJEiYu8RyQNWlt3hruA%3D%3D
+
+wget -c -O 20190408_oefK4_WCL04.info.json.jpg \
+    'https://i.ytimg.com/vi/oefK4_WCL04/hqdefault.jpg' 
+
+# Name : idx      size vo1_ao2_both3   ext   protocol
+# Vo   :   5  32709452 1               webm  'https' 
+# Ao   :   2  32973523 2               webm  'https' 
+# Both :  16         0 3                mp4  'https' 
+# combine183838 01 : ideal : use vo + ao : 20190408_oefK4_WCL04.info.json.vo.webm + 20190408_oefK4_WCL04.info.json.ao.webm 
+rm -f 20190408_oefK4_WCL04.info.json.vo.webm 
+echo echo wget -c \
+    -O 20190408_oefK4_WCL04.info.json.vo.webm  \
+    'https://r4---sn-aigzrn7l.googlevideo.com/videoplayback?expire=1565507024&ei=b2lPXcS6J8LOkgbf7KjICQ&ip=148.163.76.139&id=o-ADzxQghDyfSq9HS5HiR-puAwox0I7RCLmvMLLORklaZ8&itag=278&aitags=133%2C134%2C135%2C136%2C160%2C242%2C243%2C244%2C247%2C278&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-aigzrn7l%2Csn-aigl6ned&ms=au%2Crdu&mv=u&mvi=3&pl=22&mime=video%2Fwebm&gir=yes&clen=32709452&dur=2795.000&lmt=1554793916200138&mt=1565485147&fvip=4&keepalive=yes&beids=9466585&c=WEB&txp=5531432&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRQIgDFtLYcbmigqmD-KXjTKUcJ8rGDyxqz07WUFu6anyRjMCIQDXspLM_V5G79igQRjvL-B49LTIYdfjGHUNg5AAFHhYZA%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHylml4wRQIhAJYtQl7f4Ft1ihj7qon6hsc33B_YvGSMBrlAhrCfvi4dAiBF5m7nZ6Zy6Z5kNUtXWc5_Gh9RJEiYu8RyQNWlt3hruA%3D%3D&ratebypass=yes'
+${HOME}/bin/youtube-dl --ignore-errors --restrict-filenames   \
+    -f 278 \
+    -o 20190408_oefK4_WCL04.info.json.vo.webm  \
+    'https://www.youtube.com/watch?v=oefK4_WCL04'
+rm -f 20190408_oefK4_WCL04.info.json.ao.webm 
+echo echo wget -c \
+    -O 20190408_oefK4_WCL04.info.json.ao.webm  \
+    'https://r4---sn-aigzrn7l.googlevideo.com/videoplayback?expire=1565507024&ei=b2lPXcS6J8LOkgbf7KjICQ&ip=148.163.76.139&id=o-ADzxQghDyfSq9HS5HiR-puAwox0I7RCLmvMLLORklaZ8&itag=251&source=youtube&requiressl=yes&mm=31%2C29&mn=sn-aigzrn7l%2Csn-aigl6ned&ms=au%2Crdu&mv=u&mvi=3&pl=22&mime=audio%2Fwebm&gir=yes&clen=32973523&dur=2795.021&lmt=1554795218286872&mt=1565485147&fvip=4&keepalive=yes&beids=9466585&c=WEB&txp=5511222&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=ALgxI2wwRQIgGKqdRoxqwpbKjKyD6Szocf8lA73uLjXhBldlDpKvCo8CIQDQXZnz3Yi-g30qt6a8xlVyjZGqLkAeeWuWQl6lo7ismg%3D%3D&lsparams=mm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AHylml4wRQIhAJYtQl7f4Ft1ihj7qon6hsc33B_YvGSMBrlAhrCfvi4dAiBF5m7nZ6Zy6Z5kNUtXWc5_Gh9RJEiYu8RyQNWlt3hruA%3D%3D&ratebypass=yes'
+${HOME}/bin/youtube-dl --ignore-errors --restrict-filenames   \
+    -f 251 \
+    -o 20190408_oefK4_WCL04.info.json.ao.webm  \
+    'https://www.youtube.com/watch?v=oefK4_WCL04'
+
+rm -f 20190408_oefK4_WCL04.info.json.wav 
+/usr/bin/ffmpeg \
+    -i 20190408_oefK4_WCL04.info.json.ao.webm         \
+    -vn -ac 1 -ar 22050 -b:a 25000        \
+    20190408_oefK4_WCL04.info.json.wav 
+rm -f 20190408_oefK4_WCL04.info.json.mp3 
+rm -f 20190408_oefK4_WCL04.info.json.25k.mp4 
+echo echo lame       \
+    20190408_oefK4_WCL04.info.json.wav       \
+    20190408_oefK4_WCL04.info.json.mp3
+/usr/bin/ffmpeg \
+    -i 20190408_oefK4_WCL04.info.json.ao.webm         \
+    -vn -ac 1 -ar 22050 -b:a 25000        \
+    20190408_oefK4_WCL04.info.json.25k.mp4 
+rm -f 20190408_oefK4_WCL04.info.json.webm.mp4 
+/usr/bin/ffmpeg \
+    -i 20190408_oefK4_WCL04.info.json.vo.webm  \
+    -i 20190408_oefK4_WCL04.info.json.wav        \
+    -map 0:v:0 -map 1:a:0      \
+    -ac 1 -ar 22050 -b:a 25000   \
+    -c:v copy   \
+    20190408_oefK4_WCL04.info.json.webm.mp4 \
+    && echo 'ok     :gen 20190408_oefK4_WCL04.info.json.webm.mp4' >> result.txt \
+    || echo 'failed :gen 20190408_oefK4_WCL04.info.json.webm.mp4' >> result.txt 
+
+#10000= description:=<4月7日，美国总统川普内阁再次出现人事地震，国土安全部部长尼尔森被辞职，由海关及边境保卫局长McAleenan代理其职务，内阁高官屡屡被开除，这些高级雇员的声誉受损，还会不会有顶级人才为川普效力？川普为何要撤换如此之多的内阁大员？上周，川普再次呼吁美联储降息，并称央行应重启资产购买计划，此刺激经济增长。美联储的加息缩表政策会停止吗？美国是否需要刺激经济增长？......欢迎免费订阅YouTube平论频道，欢迎点赞、转发、分享。
+
+【激赏平论，感谢您的支持：https://www.paypal.me/highpointinstitute 】
+-------------------------------------------------------------------------------
+【 特别公告】
+各位读者朋友：
+感谢诸位对秦伟平先生作品的关注和支持。
+关于如何购买目前已经出版的两本书，统一答复如下：
+《中国危机大逃亡》，2017年11月出版，售价99美元，人民币售价680元，ISBN 978-1-940266-85-5.
+《中国危机路线图》，2016年9月出版，售价9.9美元，人民币售价68元，ISBN 978-1-940266-32-9.
+购买途径1：全球读者首选 PayPal电子支付
+（可在www.paypal.com注册新账户,非常简便，一分钟搞定）     收款账号：weipingqin1980@gmail.com
+购买途径2：墙内读者，请发邮件至weipingqin1980@gmail.com咨询非公开的安全收款途径，一般24小时内可收到回复。
+
+购买途径3：Google Play 在线购买
+再次感谢大家的支持与海涵，为保护版权及读者安全，严禁以任何形式传播。一般付款后24小时内会收到有作者电子签名的PDF版电子书。     秦伟平     2017年12月28日> 
+#10001= id:=<oefK4_WCL04> 
+#10002= webpage_url:=<https://www.youtube.com/watch?v=oefK4_WCL04> 
+#10003= thumbnail:=<https://i.ytimg.com/vi/oefK4_WCL04/hqdefault.jpg> 
+#10004= fulltitle:=<平论Live | 川普开除国土安全部长尼尔森，呼吁美联储降息，美国需要刺激经济增长吗？2019-04-08> 
+#10005= format_id:=<247+140> 
+#10006= upload_date:=<20190408> 
+#10007= uploader:=<Weiping Show《平论》> 
+#10008= protocol:=<<nil>> 
+
+#30000=  <ext:webm> <filesize:17510232> <acodec:opus> <format_id:249> <protocol:https> <url:https://r4---sn-ai> <vcodec:none>
+#30001=  <vcodec:none> <filesize:18267873> <acodec:opus> <url:https://r4---sn-ai> <format_id:250> <protocol:https> <ext:webm>
+#30002=  <protocol:https> <vcodec:none> <ext:webm> <filesize:32973523> <format_id:251> <acodec:opus> <url:https://r4---sn-ai>
+#30003=  <protocol:https> <format_id:140> <acodec:mp4a.40.2> <url:https://r4---sn-ai> <vcodec:none> <ext:m4a> <filesize:45235549>
+#30004=  <protocol:https> <ext:mp4> <acodec:none> <url:https://r4---sn-ai> <vcodec:avc1.4d400c> <width:256> <format_id:160> <filesize:13480701>
+#30005=  <vcodec:vp9> <filesize:32709452> <format_id:278> <width:256> <protocol:https> <url:https://r4---sn-ai> <ext:webm> <acodec:none>
+#30006=  <format_id:133> <width:426> <ext:mp4> <acodec:none> <url:https://r4---sn-ai> <protocol:https> <vcodec:avc1.4d4015> <filesize:27200816>
+#30007=  <ext:webm> <format_id:242> <vcodec:vp9> <width:426> <acodec:none> <url:https://r4---sn-ai> <filesize:35967017> <protocol:https>
+#30008=  <ext:mp4> <filesize:57867703> <format_id:134> <vcodec:avc1.4d401e> <acodec:none> <protocol:https> <url:https://r4---sn-ai> <width:640>
+#30009=  <vcodec:vp9> <acodec:none> <filesize:62832025> <url:https://r4---sn-ai> <width:640> <ext:webm> <protocol:https> <format_id:243>
+#30010=  <vcodec:vp9> <format_id:244> <filesize:96258217> <protocol:https> <acodec:none> <url:https://r4---sn-ai> <width:854> <ext:webm>
+#30011=  <url:https://r4---sn-ai> <filesize:87995308> <protocol:https> <ext:mp4> <format_id:135> <vcodec:avc1.4d401f> <width:854> <acodec:none>
+#30012=  <protocol:https> <url:https://r4---sn-ai> <filesize:130104726> <acodec:none> <vcodec:avc1.4d401f> <width:1280> <ext:mp4> <format_id:136>
+#30013=  <vcodec:vp9> <ext:webm> <acodec:none> <protocol:https> <format_id:247> <url:https://r4---sn-ai> <filesize:160270690> <width:1280>
+#30014=  <filesize:228240594> <acodec:vorbis> <protocol:https> <vcodec:vp8.0> <ext:webm> <width:640> <url:https://r4---sn-ai> <format_id:43>
+#30015=  <ext:mp4> <width:640> <url:https://r4---sn-ai> <vcodec:avc1.42001E> <filesize:140343457> <format_id:18> <acodec:mp4a.40.2> <protocol:https>
+#30016=  <protocol:https> <ext:mp4> <acodec:mp4a.40.2> <url:https://r4---sn-ai> <vcodec:avc1.64001F> <format_id:22> <width:1280>
+
